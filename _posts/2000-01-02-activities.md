@@ -31,7 +31,7 @@ fa-icon: flag-checkered
 
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>
-    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-5x"></i><b>Click. You should take a look at this script!</b></div>
+    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-5x"></i><b>Click. You should take a look at this function!</b></div>
     <div class="challenge-body collapsible-body">
      
 <div class="row">

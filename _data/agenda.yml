@@ -1,16 +1,21 @@
 saturday1:
-  - title: CeSIUM Hackathon
-    time: 10h-20h
-    place: DI A1
+  - title: Before we start, what are your 3 words? 
     image: hackathon.png
-    typeform: https://cesium.typeform.com/to/KJkgiV
-    text: A primeira CeSIUM Hackathon deste ano será competitiva! Passa o sábado connosco no Departamento de Informática a programar o melhor bot que conseguires. O vencedor terá direito a um prémio! O almoço e coffee break são por nossa conta. Há limite de vagas para as inscrições.
+    typeform: https://agahkarakuzu.typeform.com/to/T8vk4k
+    text: After the opening presentation, we will ask everyone to i) introduce themselves, ii) where are they coming from and iii) 3 words that describe their research interest. We can even have a wordcloud of these 3 words if you can spare 15 seconds to fill out this form!   
 
-  - title: "BragaJS: Meteor Global Distributed Hackathon"
-    time: 11h-11h (24h)
+  - title: "Opening presentation"
+    time: 10h-11h (24h)
     place: DI A1
     image: meteor.png
-    text: Os meetups BragaJS trazem para Portugal uma edição da Meteor Global Distributed Hackathon! Para te inscreveres neste evento, organizado em conjunto com a <a target="_blank" href="http://subvisual.co/">Subvisual</a>, necessitas de te registar no <a target="_blank" href="http://www.meetup.com/bragajs/events/225530868/">Meetup</a> e no <a target="_blank" href="http://info.meteor.com/2015-hackathon">site oficial</a> até 2 de Outubro. Jantar e coffee break são garantidos! Não te esqueças de consultar as regras de submissão.
+    text: Welcome! 
+
+  - title: "Pitch session"
+    time: 11h-12h (24h)
+    place: DI A1
+    typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
+    image: meteor.png
+    text: Fill out the form if you have something to present! 
 
 monday:
   - title: DI Goes Retro
