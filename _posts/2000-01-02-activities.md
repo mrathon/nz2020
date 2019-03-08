@@ -1,5 +1,5 @@
 ---
-title: "Start"
+title: "About"
 bg: about
 color: white
 fa-icon: flag-checkered
