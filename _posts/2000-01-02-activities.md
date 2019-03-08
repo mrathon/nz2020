@@ -31,7 +31,7 @@ fa-icon: flag-checkered
 
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>
-    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-5x"></i><b>We've written an amazing function to get you started</b></div>
+    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-5x"></i><b>Click. You should take a look at this script!</b></div>
     <div class="challenge-body collapsible-body">
      
 <div class="row">
@@ -43,7 +43,7 @@ import Faculty  as fcl
 import Organizer as org
 import Trainee as trn 
 
-def MRathon:
+def MRathon(you):
 
 {%endhighlight%}
 </div>
@@ -52,39 +52,41 @@ def MRathon:
   <ul>
   {%highlight haskell%}
 
-  1  prl.Nikola_Stikov
+  participants = [
 
-  2  prl.Lukas_Winter
+  1  prl.Nikola_Stikov,
 
-  3  prl.Daniel_Ennis
+  2  prl.Lukas_Winter,
 
-  4  prl.Adrienne_Campbell-Washburn
+  3  prl.Daniel_Ennis,
 
-  5  prl.Joshua_Trzasko
+  4  prl.Adrienne_Campbell-Washburn,
 
-  6  prl.Simone_Angela Winkler
+  5  prl.Joshua_Trzasko,
 
-  7  prl.Joao_Periquito
+  6  prl.Simone_Angela Winkler,
 
-  8  prl.Ruben_Pellicer
+  7  prl.Joao_Periquito,
 
-  9  trn.Katy Keenan
+  8  prl.Ruben_Pellicer,
 
-  10 org.Agah Karakuzu
+  9  trn.Katy Keenan,
 
-  11 org.Tommy Boshkovski
+  10 org.Agah Karakuzu,
 
-  12 org.Mathieu Boudreau
+  11 org.Tommy Boshkovski,
 
-  13 Tobias Leutritz
+  12 org.Mathieu Boudreau,
 
-  14 Tom O'Reilly
+  13 Tobias Leutritz,
 
-  15 Johnes Obungoloch
+  14 Tom O'Reilly,
 
-  16 Erika Rave
+  15 Johnes Obungoloch,
 
-  17 Thomas Eigentler
+  16 Erika Rave,
+
+  17 Thomas Eigentler,
 
   {%endhighlight%}
   </ul>
@@ -92,45 +94,73 @@ def MRathon:
   </div>
   <div class="col s6 feature2">
  {%highlight haskell%}
-  18 Jelle Veraart
+  18 Jelle Veraart,
 
-  19 Alonso Ramirez
+  19 Alonso Ramirez,
 
-  20 Bonny Biswas
+  20 Bonny Biswas,
 
-  21 Eric Borisch
+  21 Eric Borisch,
 
-  22 Kevin Glaser
+  22 Kevin Glaser,
 
-  23 Nolan Meyer
+  23 Nolan Meyer,
 
-  24 Tim Kline
+  24 Tim Kline,
 
-  25 Jeff Fessler
+  25 Jeff Fessler,
 
-  26 Martin Uecker
+  26 Martin Uecker,
 
-  27 Florian Knoll
+  27 Florian Knoll,
 
-  28 Miki Lustig
+  28 Miki Lustig,
 
-  29 Stefan Skare
+  29 Stefan Skare,
 
-  30 Krishna Nayak
+  30 Krishna Nayak,
 
-  31 Justin Haldar
+  31 Justin Haldar,
 
-  32 Joseph Cheng
+  32 Joseph Cheng,
 
-  33 Wiktor Olszowy
+  33 Wiktor Olszowy,
 
-  34 Matthias Dieringer
+  34 Matthias Dieringer]
   {%endhighlight%}
   </div>
 
   <div class="col s12 feature2">
 {%highlight python%}
-      return amazing_stuff
+      if not you in participants: 
+        participants.append(you)
+
+      participants.set_location("Montreal","Quebec","Cadana") # You will love it
+      
+      if location.get_temperature < -10: # But you may never know... 
+        raise ValueError('Oh Canada!')
+
+      participants.set_event_duration(2*24*60*60) 
+      
+      try:
+        
+        take_home = participants.get_project_done() 
+      
+      except:
+       
+        take_home = participants.start_new_project()
+     
+      finally:
+        
+        participants.learn_new_stuff()
+
+        participants.socialize() 
+
+        participants.party() 
+
+        take_home = participants.have_great_time()  
+      
+      return take_home 
 
 {%endhighlight%}
 </div>
