@@ -4,32 +4,46 @@ saturday1:
     typeform: https://agahkarakuzu.typeform.com/to/T8vk4k
     text: After the opening presentation, we will ask everyone to i) introduce themselves, ii) where are they coming from and iii) 3 words that describe their research interest. We can even create a wordcloud out of these "3 words", if you can spare 15 seconds to fill out this form!   
 
-  - title: "Opening presentation"
-    time: 10h-11h (24h)
+  - title: "Plenary lecture by Paul Tofts"
+    time: 10h-11h
     place: DI A1
     image: meteor.png
-    text: Welcome! 
+    text: Some explanation goes here. 
 
   - title: "Pitch session"
     time: 11h-12h (24h)
-    place: DI A1
+    place: L-7660
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
     image: meteor.png
-    text: Fill out the form if you have something to present! 
+    text: Each project leader will give a 10 minutes intro. If you have a project idea to pitch, feel free to use the form.  
+
+  - title: "Catch session"
+    time: 12h-14h (24h)
+    place: L-7660
+    typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
+    image: meteor.png
+    text: Each project leader will give a 10 minutes intro. If you have a project idea to pitch, feel free to use the form.
+
+  - title: "Hacking hours"
+    time: 14h-17h (24h)
+    place: L-7660
+    typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
+    image: meteor.png
+    text: Each project leader will give a 10 minutes intro. If you have a project idea to pitch, feel free to use the form.  
 
 monday:
-  - title: DI Goes Retro
-    time: 9h-18h
-    place: Átrio do DI
+  - title: "Hacking session"
+    time: 9h-12h
+    place: L-6670
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrar as raízes da computação através de jogos arcade e um museu aberto!
+    text: Code with your teams. 
 
-  - title: Bash Introduction
+  - title: "Unconference about reproducibility in MRI"
     time: 16h-18h
-    place: DI A1
+    place: L-6670
     image: bash.png
     typeform: https://cesium.typeform.com/to/gtDVSe
-    text: Especialmente preparada para os novos utilizadores de Linux, esta palestra para iniciantes prepara-te para a utilização produtiva do terminal.
+    text: Reproducibilty. 
     presentation: https://prezi.com/nxv4lyntrudh/cesium-bash-introduction/
 
 tuesday:

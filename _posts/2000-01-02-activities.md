@@ -2,12 +2,12 @@
 title: "About"
 bg: about
 color: white
-fa-icon: flag-checkered
+fa-icon: info-circle
 ---
 
-#### Looking for a venue to get creative?
+#### Bringing together the ISMRM leaders in the field of reproducibility and open science.
 
-# A hackathon for MRI scientists
+# A hackathon for MRI professionals 
 <div class="row features">
   <div class="col s12 m4 feature">
     <i class="fa fa-comments-o fa-4x">
