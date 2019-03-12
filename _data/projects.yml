@@ -1,0 +1,10 @@
+projects:
+  - id: "gridder-content-1"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "gridder-content-2"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
