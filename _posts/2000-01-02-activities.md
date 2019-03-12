@@ -8,6 +8,9 @@ fa-icon: info-circle
 #### Bringing together the ISMRM leaders in the field of reproducibility and open science.
 
 # A hackathon for MRI professionals 
+
+<center><a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
+
 <div class="row features">
   <div class="col s12 m4 feature">
     <i class="fa fa-comments-o fa-4x">
