@@ -1,7 +1,5 @@
 ---
-port: 4000
-host: 0.0.0.0
-safe: false
+safe: true
 
 
 ### site serving configuration ###
@@ -19,7 +17,7 @@ description: "MRI hackathon."
 source_link: "https://github.com/mrathon"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: 
+google_analytics_key:
 
 
 ### template colors, used site-wide via css ###
