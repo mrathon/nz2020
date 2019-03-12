@@ -2,8 +2,6 @@
 safe: true
 
 
-
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
