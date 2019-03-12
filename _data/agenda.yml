@@ -1,54 +1,78 @@
 saturday1:
   - title: "Breakfast"
-    time:  9h-10h (24h)
+    time:  9h-10h
     place: L-7660
     image: breakfast.png
+    text:  Welcome to the first MRathon! Enjoy some coffe and Montreal's crispy croissant to get started. 
   
-  - title: "Welcome"
-    time: 10h-11h (24h)
+  - title: "Welcome session"
+    time: 10h-11h
     place: L-7660
     image: welcome.png
-    text: Some explanation goes here. 
+    text:  A series of opening talks by Nikola Stikov, Katy Keenan and Lukas Winter. 
 
   - title: "Pitch session"
-    time:  11h-12h (24h)
+    time:  11h-12h
     place: L-7660
+    image: present.png
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
-    image: meteor.png
     text: Each project leader will give a 10 minute intro. If you have a project idea to pitch, feel free to fill out the form below. 
     
   - title: "Networking lunch"
-    time:  12h-14h (24h)
+    time:  12h-14h
     place: L-7660
     image: lunch.png
+    text: A hungry stomach has no ears! Enjoy your complimentary lunch while socializing. 
     
   - title: "Town hall meeting on reproducibility"
-    time: 16h-17h (24h)
+    time: 16h-17h
     place: L-7660
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
-    image: meteor.png
-    text: <a href="https://en.wikipedia.org/wiki/Unconference">Unconference</a> style discussion about different aspects of reproducibility in the field of MRI.
+    image: idea.png
+    text: <a href="https://en.wikipedia.org/wiki/Unconference" target="_blank">Unconference</a> style discussion about different aspects of reproducibility in the field of MRI.
 
   - title: "Hacking hours"
-    time:  17h-18h (24h)
+    time:  17h-18h
     place: L-7660
     image: hack.png
-    text: This is the time you find a project to work on...       
-
+    text: You have a project already? Then get the ball roilling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select one that interests you.         
 monday:
-  - title: "Hacking session"
-    time: 9h-12h
+  - title: "Catch session"
+    time: 10h-11h (24h)
     place: L-6670
-    image: retro.png
-    text: Code with your teams. 
+    image: catch.png
 
-  - title: "Unconference about reproducibility in MRI"
-    time: 16h-18h
+  - title: "Open hacking session"
+    time: 11h-13h
     place: L-6670
-    image: bash.png
+    image: hack.png
+    text: Code with your teammates, advance your project.
+
+  - title: "Lunch"
+    time:  13h-14h
+    place: L-6670
+    image: lunch.png
+    text: Enjoy! 
+
+  - title: "Open hacking session"
+    time:  14h-17h
+    place: L-6670
+    image: hack.png
+    text: The final hacking hours!
+    
+  - title: "Wrap up"
+    time:  17h-18h
+    place: L-6670
+    image: final.png
+    text: Wrap up presentations Some more explanation  goes here. 
+   
+  - title: "Social"
+    time:  19h
+    place: L-6670
+    image: social.png
     typeform: https://cesium.typeform.com/to/gtDVSe
-    text: Reproducibilty. 
-    presentation: https://prezi.com/nxv4lyntrudh/cesium-bash-introduction/
+    text: Time to have fun! You deserved it. 
+
 
 tuesday:
   - title: Segurança
