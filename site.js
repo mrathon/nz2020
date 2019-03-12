@@ -120,7 +120,7 @@ $(document).ready(function (){
 $(function() {
 
     // Call Gridder
-    $('.gridder').gridderExpander({
+    $.gridder.gridderExpander({
         scroll: true,
         scrollOffset: 30,
         scrollTo: "panel",                  // panel or listitem
