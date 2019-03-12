@@ -19,7 +19,7 @@ fa-icon: info-circle
     <i class="fa fa-laptop fa-4x">
     </i>
     <h4> Choose a project </h4>
-    <p class="feature-description"> Bring your own, come up with one or join a project. The hackathon is made for everyone, from novice to pro.</p>
+    <p class="feature-description"> Bring your own, come up with one or join a project. The hackathon is made for everyone, from novice to pro.</p>****
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-terminal fa-4x">
