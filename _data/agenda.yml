@@ -1,35 +1,39 @@
 saturday1:
-  - title: Before we start, what are your 3 words? 
-    image: hackathon.png
-    typeform: https://agahkarakuzu.typeform.com/to/T8vk4k
-    text: After the opening presentation, we will ask everyone to i) introduce themselves, ii) where are they coming from and iii) 3 words that describe their research interest. We can even create a wordcloud out of these "3 words", if you can spare 15 seconds to fill out this form!   
-
-  - title: "Plenary lecture by Paul Tofts"
-    time: 10h-11h
-    place: DI A1
-    image: meteor.png
+  - title: "Breakfast"
+    time:  9h-10h (24h)
+    place: L-7660
+    image: breakfast.png
+  
+  - title: "Welcome"
+    time: 10h-11h (24h)
+    place: L-7660
+    image: welcome.png
     text: Some explanation goes here. 
 
   - title: "Pitch session"
-    time: 11h-12h (24h)
+    time:  11h-12h (24h)
     place: L-7660
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
     image: meteor.png
-    text: Each project leader will give a 10 minutes intro. If you have a project idea to pitch, feel free to use the form.  
-
-  - title: "Catch session"
-    time: 12h-14h (24h)
+    text: Each project leader will give a 10 minute intro. If you have a project idea to pitch, feel free to fill out the form below. 
+    
+  - title: "Networking lunch"
+    time:  12h-14h (24h)
+    place: L-7660
+    image: lunch.png
+    
+  - title: "Town hall meeting on reproducibility"
+    time: 16h-17h (24h)
     place: L-7660
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
     image: meteor.png
-    text: Each project leader will give a 10 minutes intro. If you have a project idea to pitch, feel free to use the form.
+    text: <a href="https://en.wikipedia.org/wiki/Unconference">Unconference</a> style discussion about different aspects of reproducibility in the field of MRI.
 
   - title: "Hacking hours"
-    time: 14h-17h (24h)
+    time:  17h-18h (24h)
     place: L-7660
-    typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
-    image: meteor.png
-    text: Each project leader will give a 10 minutes intro. If you have a project idea to pitch, feel free to use the form.  
+    image: hack.png
+    text: This is the time you find a project to work on...       
 
 monday:
   - title: "Hacking session"
