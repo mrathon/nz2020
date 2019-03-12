@@ -135,7 +135,6 @@ console.log("Gridder Inititialized");
 },
 onContent: function () {
 console.log("Gridder Content Loaded");
-$(".carousel").carousel();
 },
 onClosed: function () {
 console.log("Gridder Closed");
