@@ -120,26 +120,24 @@ $(document).ready(function (){
 
 
     // Call Gridder
-    $('.gridder').gridderExpander({
-                               scroll: true,
-                                   scrollOffset: 30,
-                                   scrollTo: "panel", // panel or listitem
-                                   animationSpeed: 400,
-                                   animationEasing: "easeInOutExpo",
-                                   showNav: true, // Show Navigation
-                                   nextText: "", // Next button text
-                                   prevText: "", // Previous button text
-                                   closeText: "", // Close button text
-                                   onStart: function () {
-                                       //Gridder Inititialized
-                                       console.log('On Gridder Initialized...');
-                                   },
-                                   onContent: function () {
-                                       //Gridder Content Loaded
-                                       console.log('On Gridder Expand...');
-                                   },
-                                   onClosed: function () {
-                                       //Gridder Closed
-                                       console.log('On Gridder Closed...');
-                                   }
-                               });
+$('.gridder').gridderExpander({
+scroll: true,
+scrollOffset: 60,
+scrollTo: "panel", // panel or listitem
+animationSpeed: 400,
+animationEasing: "easeInOutExpo",
+showNav: true,
+nextText: "<i class=\"fa fa-arrow-right\"></i>",
+prevText: "<i class=\"fa fa-arrow-left\"></i>",
+closeText: "<i class=\"fa fa-times\"></i>",
+onStart: function () {
+console.log("Gridder Inititialized");
+},
+onContent: function () {
+console.log("Gridder Content Loaded");
+$(".carousel").carousel();
+},
+onClosed: function () {
+console.log("Gridder Closed");
+}
+});
