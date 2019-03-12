@@ -13,13 +13,13 @@ fa-icon: info-circle
     <i class="fa fa-comments-o fa-4x">
     </i>
     <h4> Socialize </h4>
-    <p class="feature-description"> The room will be swarming with MRI hackers. Just get into the spirit of it! </p>
+    <p class="feature-description"> This is a great opportunity to enhance your network. Just get into the spirit of it! </p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-laptop fa-4x">
     </i>
     <h4> Choose a project </h4>
-    <p class="feature-description"> Bring your own, come up with one or join to a project. Hackathon is made for everyone, from novice to pros, so do not hesitate!  </p>
+    <p class="feature-description"> Bring your own, come up with one or join a project. The hackathon is made for everyone, from novice to pro.</p>
   </div>
   <div class="col s12 m4 feature">
     <i class="fa fa-terminal fa-4x">
