@@ -1,10 +1,46 @@
 projects:
-  - id: "gridder-content-1"
+  - id: "p-1"
     title: "qMRLab"
     image:  qmrlab.png
     description: Quantitative MRI under one umbrella
 
-  - id: "gridder-content-2"
+  - id: "p-2"
     title: "qMRLab"
     image:  qmrlab.png
     description: Quantitative MRI under one umbrella
+
+  - id: "p-3"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "p-4"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "p-5"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "p-6"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "p-7"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "p-8"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+
+  - id: "p-9"
+    title: "qMRLab"
+    image:  qmrlab.png
+    description: Quantitative MRI under one umbrella
+    
