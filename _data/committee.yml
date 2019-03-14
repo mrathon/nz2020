@@ -1,37 +1,43 @@
 people:
   - name: "Nikola Stikov PhD"
     image:  NikolaStikov.jpg
-    affiliation: Ecole Polytechnique de Montreal
+    affiliation: Ecole Polytechnique de Montreal, University of Montreal, open science
     twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
   - name: "Lukas Winter PhD"
     image:  LukasWinter.jpg
-    affiliation:
-    twitter:
+    affiliation: PTB Berlin, open-source MRI
+    twitter: #
     linkedin: #
     researchgate: #
   - name: "Joshua Trzasko PhD"
     image:  JoshuaTrzasko.jpg
-    affiliation:
+    affiliation: Mayo Clinic, MRM editorial board, reproducibility
     twitter: #
     linkedin: #
     researchgate: #
   - name: "Adrienne Campbell-Washburn PhD"
     image:  AdrienneCampbellWashburn.jpg
-    affiliation:
+    affiliation: NIH
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Daniel Ennis"
+  - name: "Daniel Ennis PhD"
     image:  DanielEnnis.jpg
-    affiliation:
+    affiliation: Stanford University, MRM editorial board, reproducibility
     twitter: #
     linkedin: #
     researchgate: #
   - name: "Simone Angela Winkler PhD"
     image:  SimoneAngelaWinkler.jpg
-    affiliation:
+    affiliation: OpenSourceImaging.org
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Joao Periquito"
+    image:  JoaoPeriquito.jpg
+    affiliation: OpenSourceImaging.org
     twitter: #
     linkedin: #
     researchgate: #
