@@ -14,7 +14,7 @@ fa-icon: info-circle
 <div class="col-md-4">
 <center>
 <div class="team-player">
-    <img src="img/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:170px;height:194px;">
+    <img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:170px;height:194px;">
     <h4 class="title" style="color: #ffffff;">{{ person.name }}<br>
         <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
     </h4>
