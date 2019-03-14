@@ -1,19 +1,28 @@
 ---
-title: "Projects"
-bg: about
+title: "Organization committee"
+bg: wednesday
 color: white
 fa-icon: info-circle
 ---
 
 <div class="team">
+<div class="row">
+							<div class="col-md-4">
+							<center>
+
 {% for person in site.data.committee.people %}
+<div class="col-md-4">
+<center>
 <div class="team-player">
-    <img src="img/{{ person.img }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:170px;height:194px;">
+    <img src="img/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:170px;height:194px;">
     <h4 class="title" style="color: #ffffff;">{{ person.name }}<br>
         <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
     </h4>
     <p class="description" style="color: #ffffff;"> {{ person.affiliation }}</p>
     <a href="{{ person.twitter }}" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 </div>
+</center>
+</div>
   {% endfor %}
   </div>
+</div>
