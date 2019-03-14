@@ -24,18 +24,18 @@ saturday1:
     image: lunch.png
     text: A hungry stomach has no ears! Enjoy your complimentary lunch while socializing.
 
+  - title: "Hacking hours"
+    time:  14h-16h
+    place: L-7660
+    image: hack.png
+    text: You have a project already? Then get the ball roilling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select one that interests you.
+
   - title: "Town hall meeting on reproducibility"
     time: 16h-17h
     place: L-7660
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
     image: idea.png
     text: <a href="https://en.wikipedia.org/wiki/Unconference" target="_blank">Unconference</a> style discussion about different aspects of reproducibility in the field of MRI.
-
-  - title: "Hacking hours"
-    time:  17h-18h
-    place: L-7660
-    image: hack.png
-    text: You have a project already? Then get the ball roilling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select one that interests you.
 monday:
   - title: "Catch session"
     time: 10h-11h (24h)
@@ -70,5 +70,4 @@ monday:
     time:  19h
     place: L-6670
     image: social.png
-    typeform: https://cesium.typeform.com/to/gtDVSe
     text: Time to have fun! You deserved it.
