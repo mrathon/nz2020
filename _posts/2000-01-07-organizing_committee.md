@@ -7,8 +7,6 @@ fa-icon: info-circle
 
 <div class="team">
 <div class="row">
-							<div class="col-md-4">
-							<center>
 
 {% for person in site.data.committee.people %}
 <div class="col-md-4">
