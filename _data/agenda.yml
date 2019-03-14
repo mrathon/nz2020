@@ -3,27 +3,27 @@ saturday1:
     time:  9h-10h
     place: L-7660
     image: breakfast.png
-    text:  Welcome to the first MRathon! Enjoy some coffe and Montreal's crispy croissant to get started. 
-  
+    text:  Welcome to the first MRathon! Enjoy some coffe and Montreal's crispy croissant to get started.
+
   - title: "Welcome session"
     time: 10h-11h
     place: L-7660
     image: welcome.png
-    text:  A series of opening talks by Nikola Stikov, Katy Keenan and Lukas Winter. 
+    text:  A series of opening talks by Nikola Stikov, Katy Keenan and Lukas Winter.
 
   - title: "Pitch session"
     time:  11h-12h
     place: L-7660
     image: present.png
     typeform: https://agahkarakuzu.typeform.com/to/dDRKxC
-    text: Each project leader will give a 10 minute intro. If you have a project idea to pitch, feel free to fill out the form below. 
-    
+    text: Each project leader will give a 10 minute intro. If you have a project idea to pitch, feel free to fill out the form below.
+
   - title: "Networking lunch"
     time:  12h-14h
     place: L-7660
     image: lunch.png
-    text: A hungry stomach has no ears! Enjoy your complimentary lunch while socializing. 
-    
+    text: A hungry stomach has no ears! Enjoy your complimentary lunch while socializing.
+
   - title: "Town hall meeting on reproducibility"
     time: 16h-17h
     place: L-7660
@@ -35,7 +35,7 @@ saturday1:
     time:  17h-18h
     place: L-7660
     image: hack.png
-    text: You have a project already? Then get the ball roilling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select one that interests you.         
+    text: You have a project already? Then get the ball roilling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select one that interests you.
 monday:
   - title: "Catch session"
     time: 10h-11h (24h)
@@ -52,78 +52,23 @@ monday:
     time:  13h-14h
     place: L-6670
     image: lunch.png
-    text: Enjoy! 
+    text: Enjoy!
 
   - title: "Open hacking session"
     time:  14h-17h
     place: L-6670
     image: hack.png
     text: The final hacking hours!
-    
+
   - title: "Wrap up"
     time:  17h-18h
     place: L-6670
     image: final.png
-    text: Wrap up presentations Some more explanation  goes here. 
-   
+    text: Wrap up presentations Some more explanation  goes here.
+
   - title: "Social"
     time:  19h
     place: L-6670
     image: social.png
     typeform: https://cesium.typeform.com/to/gtDVSe
-    text: Time to have fun! You deserved it. 
-
-
-tuesday:
-  - title: Segurança
-    time: 17h-19h
-    place: DI A1
-    image: segurança.png
-    typeform: https://cesium.typeform.com/to/jau8Ed
-    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te a primeira de uma série de sessões sobre cibersegurança. Junta-te a nós para aprender os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
-
-  - title: Geek Night
-    time: 20h30-22h
-    place: Velha-a-Branca
-    image: geenorbertk.png
-    text: As tradicionais Braga Geek Nights estão de volta! Vamos criar o ambiente ideal para te divertires. Vem ter connosco para um serão de informática e convívio.
-
-wednesday:
-  - title: "Elixir: A Talk for College Students"
-    time: 14h-16h
-    place: DI A1
-    image: elixir.png
-    typeform: https://cesium.typeform.com/to/BVRFSJ
-    text: Elixir é uma das linguagens do momento! Escalável, funcional e tolerante a falhas. Connosco terás uma palestra preparada para ti, com várias comparações com linguagens mais conhecidas.
-    presentation: https://speakerdeck.com/frmendes/elixir-a-talk-for-college-students
-
-  - title: JavaScript
-    time: 16h-18h
-    place: DI A1
-    image: javascript.png
-    typeform: https://cesium.typeform.com/to/qPxrdE
-    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
-
-thursday:
-  - title: Ionic
-    time: 17h-19h
-    place: DI A1
-    image: ionic.png
-    typeform: https://cesium.typeform.com/to/lkBZaK
-    text: Ionic é uma framework mobile que te permite desenvolver apps para iOS e Android, com JavaScript, HTML e CSS. Aparece nesta talk dada pela <a target="_blank" href="http://subvisual.co/">Subvisual</a>!
-
-friday:
-  - title: Retro Strikes Again
-    time: 9h-18h
-    place: Átrio do DI
-    image: red.png
-    text: Se no início da semana não tiveste oportunidade, aproveita e passa pelo Departamento de Informática e relembra a informática de outrora e os bons sons 8-bits que temos para ti.
-
-saturday2:
-  - title: CoderDojo
-    time: 10h-12h
-    place: GNRation
-    image: coderdojo.png
-    typeform: https://coderdojo-minho.typeform.com/to/gwf8nv
-    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Partilha e aparece caso tenhas interesse em informática.
-
+    text: Time to have fun! You deserved it.

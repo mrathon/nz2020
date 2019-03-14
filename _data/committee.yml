@@ -1,0 +1,61 @@
+people:
+  - name: "Nikola Stikov PhD"
+    image:  NikolaStikov.jpg
+    affiliation: Ecole Polytechnique de Montreal
+    twitter: https://twitter.com/Stikov
+    linkedin: #
+    researchgate: #
+  - name: "Lukas Winter PhD"
+    image:  LukasWinter.jpg
+    affiliation:
+    twitter:
+    linkedin: #
+    researchgate: #
+  - name: "Joshua Trzasko PhD"
+    image:  JoshuaTrzasko.jpg
+    affiliation:
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Adrienne Campbell-Washburn PhD"
+    image:  AdrienneCampbellWashburn.jpg
+    affiliation:
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Daniel Ennis"
+    image:  Daniel Ennis.jpg
+    affiliation:
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Simone Angela Winkler PhD"
+    image:  SimoneAngelaWinkler.jpg
+    affiliation:
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Ruben Pellicer PhD"
+    image:  NikolaStikov.jpg
+    affiliation:
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Agah Karakuzu"
+    image:  AgahKarakuzu.jpg
+    affiliation: Ecole Polytechnique de Montreal
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Tommy Boshkovski"
+    image:  TommyBoshkovski.jpg
+    affiliation: Ecole Polytechnique de Montreal
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Mathieu Boudreau"
+    image:  MathieuBoudreau.jpg
+    affiliation: Montreal Heart Institute
+    twitter: #
+    linkedin: #
+    researchgate: #

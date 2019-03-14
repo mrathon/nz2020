@@ -262,6 +262,20 @@ nav ul li:hover, nav ul li.active {
 .longlist li { margin-bottom: 3px; }
 
 
+.team {
+  margin-top: 80px;
+  align: center;
+}
+.team .team-player .title {
+  margin: 30px auto;
+}
+.team .team-player img {
+  max-width: 170px;
+}
+.img-thumbnail {
+  border-radius: 16px;
+}
+
 
 /* ----- fork on github banner ----- */
 #forkongithub a {
