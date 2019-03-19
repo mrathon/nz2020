@@ -45,19 +45,19 @@ monday:
   - title: "Open hacking session"
     time: 11h-13h
     place: L-6670
-    image: hack.png
+    image: hack2.png
     text: Code with your teammates, advance your project.
 
   - title: "Lunch"
     time:  13h-14h
     place: L-6670
-    image: lunch.png
+    image: lunch2.png
     text: Enjoy!
 
   - title: "Open hacking session"
     time:  14h-17h
     place: L-6670
-    image: hack.png
+    image: hack2.png
     text: The final hacking hours!
 
   - title: "Wrap up"
