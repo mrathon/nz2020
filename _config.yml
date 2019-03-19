@@ -20,6 +20,7 @@ google_analytics_key:
 ### template colors, used site-wide via css ###
 colors:
   white:        '#eaeaea'
+  rwhite:       '#ffffff'
   about:        '#2e2e2e'
   intro:        '#428bca'
   activities:   '#ed7950'
@@ -36,5 +37,6 @@ kramdown:
   auto_ids:  false
 
   
+
 sass:
   sass_dir: stylesheets/_sass/

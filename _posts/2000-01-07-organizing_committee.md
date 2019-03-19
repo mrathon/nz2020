@@ -9,7 +9,7 @@ fa-icon: info-circle
 <div class="row">
 
 {% for person in site.data.committee.people %}
-<div class="col s3">
+<div class="col s4">
 <center>
 <div class="team-player">
     <img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:194px;height:194px;">
