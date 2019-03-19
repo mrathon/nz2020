@@ -5,7 +5,7 @@ color: white
 fa-icon: info-circle
 ---
 
-<p style ="align: center">It is with great pleasure that we invite you to participate in the MR Hackathon (MRathon), scheduled for May 9-10 2019, right before the annual meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). The event is held under the auspices of the TransMedTech institute at École Polytechnique, an initiative founded by the Canada First Research Excellence Fund.
+<p style ="text-align: center">It is with great pleasure that we invite you to participate in the MR Hackathon (MRathon), scheduled for May 9-10 2019, right before the annual meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). The event is held under the auspices of the TransMedTech institute at École Polytechnique, an initiative founded by the Canada First Research Excellence Fund.
 <br><br>
 The format of the hackathon will be very informal, with brief invited pitch talks (5 minutes) where each project leader presents a collaborative project to the group, interspersed with coding sessions, unconferences and social events. The focus is on getting trainees to network and to work on various software/hardware/reproducibility-related projects. At the end of the hackathon on Friday we will have a social event, in collaboration with Open Source Imaging and sponsored by General Electric.
 </p>
