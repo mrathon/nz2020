@@ -2,7 +2,7 @@
 title: "Organizators"
 bg: wednesday
 color: white
-fa-icon: info-circle
+fa-icon: users
 ---
 
 <div class="team">
