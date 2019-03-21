@@ -34,8 +34,9 @@ colors:
   saturday-two: '#39479b'
   contacts:     '#3035A4'
   nwclr:        '#C1DFF0'
-  
 
+
+  
 kramdown:
   auto_ids:  false
 
