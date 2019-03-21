@@ -12,7 +12,7 @@ The format of the hackathon will be very informal, with brief invited pitch talk
 
 # A hackathon for MRI professionals
 
-<center><a class="waves-effect waves-light btn bg-{{ page.border-color }}" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
+<center><a class="waves-effect waves-light btn bg-#C1DFF0" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
 
 <div class="row features">
   <div class="col s12 m4 feature">
