@@ -1,7 +1,7 @@
 projects:
   - id: "p-1"
     title: "qMRLab"
-    image:  qmrlab.jpg
+    image:  qmrlab.png
     description: Quantitative MRI under one umbrella
     url: https://github.com/mrathon/idea-pitches/issues/1
 
