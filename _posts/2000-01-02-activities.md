@@ -10,9 +10,13 @@ fa-icon: info-circle
 The format of the hackathon will be very informal, with brief invited pitch talks (5 minutes) where each project leader presents a collaborative project to the group, interspersed with coding sessions, unconferences and social events. The focus is on getting trainees to network and to work on various software/hardware/reproducibility-related projects. At the end of the hackathon on Friday we will have a social event, in collaboration with Open Source Imaging and sponsored by General Electric.
 </p>
 
+<br><br>
+
 # A hackathon for MRI professionals
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. </p>
+
+<br><br>
 
 <center><a class="waves-effect waves-light btn red" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
 
