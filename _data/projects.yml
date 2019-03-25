@@ -23,3 +23,9 @@ projects:
     description: Quantitative MRI under one umbrella
     url: https://github.com/mrathon/idea-pitches/issues/4
 
+  - id: "p-4"
+    title: "hMRI-toolbox"
+    image:  hmri.jpg
+    description:  An easy-to-use open-source and flexible tool for qMRI data handling and processing.
+    url: https://github.com/mrathon/idea-pitches/issues/5
+
