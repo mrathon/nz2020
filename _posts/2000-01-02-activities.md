@@ -3,6 +3,7 @@ title: "About"
 bg: about
 color: white
 fa-icon: info-circle
+iconclr: about
 ---
 
 <p style ="text-align: center">It is with great pleasure that we invite you to participate in the MR Hackathon (MRathon), scheduled for May 9-10 2019, right before the annual meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). The event is held under the auspices of the TransMedTech institute at École Polytechnique, an initiative founded by the Canada First Research Excellence Fund.

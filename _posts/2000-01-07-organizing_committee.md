@@ -3,6 +3,7 @@ title: "Organizators"
 bg: wednesday
 color: white
 fa-icon: users
+iconclr: wednesday
 ---
 
 <div class="team">
