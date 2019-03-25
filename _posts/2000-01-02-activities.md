@@ -12,6 +12,8 @@ The format of the hackathon will be very informal, with brief invited pitch talk
 
 # A hackathon for MRI professionals
 
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. </p>
+
 <center><a class="waves-effect waves-light btn red" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
 
 <div class="row features">
