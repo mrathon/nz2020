@@ -48,7 +48,7 @@ The format of the hackathon will be very informal, with brief invited pitch talk
     <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Click here to see program at a glance</div>
     <div class="challenge-body collapsible-body">
     
-    <center><img src="/img/schedule.png"  style="padding-left:4%"></center>
+    <center><img src="/img/schedule.png"></center>
 
     </div>
   </li>
