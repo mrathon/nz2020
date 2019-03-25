@@ -42,3 +42,14 @@ The format of the hackathon will be very informal, with brief invited pitch talk
     <p class="feature-description"> Code to solve, teach to help and come together to create. All hands on deck!</p>
   </div>
 </div>
+
+<ul class="challenge collapsible" data-collapsible="accordion">
+  <li>
+    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Enunciado</div>
+    <div class="challenge-body collapsible-body">
+    
+    <img src="/img/venue.png" class="center" style="padding-left:4%">
+
+    </div>
+  </li>
+</ul>
