@@ -2,7 +2,7 @@
 title: "Organizators"
 bg: wednesday
 color: white
-fa-icon: users
+fa-icon: user
 iconclr: wednesday
 titleclr: wednesday
 ---
