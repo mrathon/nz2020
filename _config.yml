@@ -35,6 +35,7 @@ colors:
   nwclr:        '#C1DFF0'
   clrnew: '#ffffff'
 
+  
 kramdown:
   auto_ids:  false
 

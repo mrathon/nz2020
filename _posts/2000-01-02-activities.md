@@ -1,18 +1,21 @@
 ---
 title: "About"
-bg: about
-color: white
+bg: clrnew
+color: about
 fa-icon: info-circle
-iconclr: about
-titleclr: about
+iconclr: intro
+titleclr: intro
 ---
 
-<p style ="text-align: center">It is with great pleasure that we invite you to participate in the MR Hackathon (MRathon), scheduled for May 9-10 2019, right before the annual meeting of the International Society for Magnetic Resonance in Medicine (ISMRM). The event is held under the auspices of the TransMedTech institute at École Polytechnique, an initiative founded by the Canada First Research Excellence Fund.
-<br><br>
-The format of the hackathon will be very informal, with brief invited pitch talks (5 minutes) where each project leader presents a collaborative project to the group, interspersed with coding sessions, unconferences and social events. The focus is on getting trainees to network and to work on various software/hardware/reproducibility-related projects. At the end of the hackathon on Friday we will have a social event, in collaboration with Open Source Imaging and sponsored by General Electric.
-</p>
-
-<br><br>
+<div class="row partners">
+{% for item in site.data.projects.projects %}
+  <div class="col s12 partner valign">
+    <h4 style="color: #486a89; text-align: left"> {{ item.title }}  </h4>
+    <a href="{{ item.url }}" target="blank"><img src="img/projects/{{ item.image }}"/></a>
+    
+  </div>
+  {% endfor %}
+  </div>
 
 # A hackathon for MRI professionals
 
@@ -20,6 +23,11 @@ The format of the hackathon will be very informal, with brief invited pitch talk
 
 <br><br>
 
+> Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects. - Richard M. Stallman 
+
+<p>If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p>
+
+<p style ="text-align: center; font-weight: bold; font-size:24px;"> Registration opens on April 01, 2019. </p>
 <center><a class="waves-effect waves-light btn red" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
 
 <div class="row features">
