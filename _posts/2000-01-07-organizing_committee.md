@@ -19,7 +19,6 @@ titleclr: wednesday
         <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
     </h4>
     <p class="description" style="color: #ffffff;"> {{ person.affiliation }}</p>
-    <a href="{{ person.twitter }}" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 </div>
 </center>
 </div>

@@ -3,8 +3,8 @@ title: "About"
 bg: clrnew
 color: about
 fa-icon: info-circle
-iconclr: intro
-titleclr: intro
+iconclr: '#428bca'
+titleclr: '#428bca'
 ---
 
 <div class="row partners">
@@ -17,13 +17,16 @@ titleclr: intro
   {% endfor %}
   </div>
 
+<br><br>
+
+
 # A hackathon for MRI professionals
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. </p>
 
 <br><br>
 
-> Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects. - Richard M. Stallman 
+<p style ="text-align: center; font-weight: italic; font-size:24px;">"Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects." - Richard M. Stallman 
 
 <p>If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p>
 
@@ -51,13 +54,3 @@ titleclr: intro
   </div>
 </div>
 
-<ul class="challenge collapsible" data-collapsible="accordion">
-  <li>
-    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Click here to see program at a glance</div>
-    <div class="challenge-body collapsible-body">
-    
-    <center><img src="/img/schedule.png"></center>
-
-    </div>
-  </li>
-</ul>

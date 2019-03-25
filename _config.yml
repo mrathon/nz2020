@@ -8,6 +8,7 @@ timezone: null
 lsi: false
 markdown: kramdown
 
+
 ### content configuration ###
 title:       "MRathon 2019"
 keywords:    "MRI, hackathon, 2019, montreal, polytechnique, mrathon"
@@ -35,7 +36,7 @@ colors:
   nwclr:        '#C1DFF0'
   clrnew: '#ffffff'
 
-  
+
 kramdown:
   auto_ids:  false
 
