@@ -17,7 +17,7 @@ favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
 
-  
+
 ### template colors, used site-wide via css ###
 colors:
   white:        '#eaeaea'
@@ -38,6 +38,7 @@ colors:
 
 kramdown:
   auto_ids:  false
+  
 
 sass:
   sass_dir: stylesheets/_sass/
