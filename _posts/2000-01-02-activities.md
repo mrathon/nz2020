@@ -45,10 +45,10 @@ The format of the hackathon will be very informal, with brief invited pitch talk
 
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>
-    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Enunciado</div>
+    <div class="challenge-title collapsible-header"><i class="fa fa-terminal fa-4x"></i>Click here to see program at a glance</div>
     <div class="challenge-body collapsible-body">
     
-    <img src="/img/venue.png" class="center" style="padding-left:4%">
+    <center><img src="/img/schedule.png"  style="padding-left:4%"></center>
 
     </div>
   </li>
