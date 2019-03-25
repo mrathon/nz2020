@@ -4,6 +4,7 @@ bg: wednesday
 color: white
 fa-icon: users
 iconclr: wednesday
+titleclr: wednesday
 ---
 
 <div class="team">

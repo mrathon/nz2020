@@ -37,7 +37,6 @@ colors:
   clrnew: '#ffffff'
 
 
-
 kramdown:
   auto_ids:  false
 
