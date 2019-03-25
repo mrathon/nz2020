@@ -26,9 +26,11 @@ titleclr: '#428bca'
 
 <br><br>
 
-<p style ="text-align: center; font-weight: italic; font-size:24px;">"Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects." - Richard M. Stallman 
+<p style ="text-align: center; font-style: italic; font-size:18px;">"Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects." - Richard M. Stallman 
 
-<p>If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p>
+<center><p style ="text-align: center; font-style: bold; font-size:18px;">If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p></center>
+
+<br><br>
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> Registration opens on April 01, 2019. </p>
 <center><a class="waves-effect waves-light btn red" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
