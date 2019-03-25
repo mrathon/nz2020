@@ -1,5 +1,5 @@
 ---
-title: "Organizators"
+title: "Organizers"
 bg: wednesday
 color: white
 fa-icon: user

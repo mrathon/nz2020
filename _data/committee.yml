@@ -7,7 +7,7 @@ people:
     researchgate: #
   - name: "Lukas Winter PhD"
     image:  LukasWinter.jpg
-    affiliation: PTB Berlin, open-source MRI
+    affiliation: Physikalisch Technische Bundesanstalt (PTB) Berlin, OpenSourceImaging.org 
     twitter: #
     linkedin: #
     researchgate: #
@@ -29,21 +29,15 @@ people:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Simone Angela Winkler PhD"
-    image:  SimoneAngelaWinkler.jpg
-    affiliation: OpenSourceImaging.org
-    twitter: #
-    linkedin: #
-    researchgate: #
   - name: "Joao Periquito"
     image:  JoaoPeriquito.jpg
-    affiliation: OpenSourceImaging.org
+    affiliation: Max-Delbrück Center for Molecular Medicine (MDC) Berlin, OpenSourceImaging.org 
     twitter: #
     linkedin: #
     researchgate: #
   - name: "Ruben Pellicer PhD"
     image:  RubenPellicer.jpg
-    affiliation:
+    affiliation: Center for Advanced Imaging Brisbane, OpenSourceImaging.org 
     twitter: #
     linkedin: #
     researchgate: #
