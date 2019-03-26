@@ -7,19 +7,6 @@ iconclr: '#428bca'
 titleclr: '#428bca'
 ---
 
-<div class="row partners">
-{% for item in site.data.projects.projects %}
-  <div class="col s12 partner valign">
-    <h4 style="color: #486a89; text-align: left"> {{ item.title }}  </h4>
-    <a href="{{ item.url }}" target="blank"><img src="img/projects/{{ item.image }}"/></a>
-    
-  </div>
-  {% endfor %}
-  </div>
-
-<br><br>
-
-
 # A hackathon for MRI professionals
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> To promote reproducibility, collaboration, and standards through open source practices in magnetic resonance. </p>
@@ -29,6 +16,16 @@ titleclr: '#428bca'
 <p style ="text-align: center; font-style: italic; font-size:18px;">"Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects." - Richard M. Stallman 
 
 <center><p style ="text-align: center; font-style: bold; font-size:18px;">If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p></center>
+
+<div class="row partners">
+{% for item in site.data.projects.projects %}
+  <div class="col s12 partner valign">
+    <h4 style="color: #486a89; text-align: left"> {{ item.title }}  </h4>
+    <a href="{{ item.url }}" target="blank"><img src="img/projects/{{ item.image }}"/></a>
+    
+  </div>
+  {% endfor %}
+  </div>
 
 <br><br>
 
