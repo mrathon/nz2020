@@ -18,7 +18,7 @@ favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
 
-  
+
 
 ### template colors, used site-wide via css ###
 colors:
@@ -37,7 +37,6 @@ colors:
   contacts:     '#3035A4'
   nwclr:        '#C1DFF0'
   clrnew: '#ffffff'
-
 
 
 
