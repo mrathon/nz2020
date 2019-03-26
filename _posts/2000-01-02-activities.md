@@ -15,7 +15,11 @@ titleclr: '#428bca'
 
 <p style ="text-align: center; font-style: italic; font-size:18px;"><a href="https://www.gnu.org/philosophy/hackathons.en.html" target="blank">"Hackathons are an accepted method of giving community support to digital development projects. The community invites developers to join an event which offers an encouraging atmosphere, some useful resources, and the opportunity to work on useful projects." - Richard M. Stallman</a></p> 
 
-<center><p style ="text-align: center; font-style: bold; font-size:18px;">If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p></center>
+<center><p style ="text-align: center; font-weight: bold; font-size:18px;">If you’ve never been to a hackathon, <a href="https://www.ohbmbrainmappingblog.com/blog/ohbm-hackathon-2017-a-first-timers-perspective">read this first timer’s perspective.</a></p></center>
+
+<br><br>
+
+*** 
 
 <div class="row partners">
 {% for item in site.data.projects.projects %}
@@ -26,6 +30,8 @@ titleclr: '#428bca'
   </div>
   {% endfor %}
   </div>
+
+*** 
 
 <br><br>
 
