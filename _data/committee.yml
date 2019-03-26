@@ -13,7 +13,7 @@ people:
     researchgate: #
   - name: "Joshua Trzasko"
     image:  JoshuaTrzasko.jpg
-    affiliation: Mayo Clinic, MRM editorial board on reproducibility
+    affiliation: Mayo Clinic
     twitter: #
     linkedin: #
     researchgate: #
@@ -25,8 +25,7 @@ people:
     researchgate: #
   - name: "Daniel Ennis"
     image:  DanielEnnis.jpg
-    affiliation: Stanford University, MRM editorial board, reproducibility
-    twitter: #
+    affiliation: Stanford University
     linkedin: #
     researchgate: #
   - name: "Joao Periquito"
