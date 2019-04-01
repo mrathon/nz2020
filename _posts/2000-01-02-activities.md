@@ -19,7 +19,7 @@ titleclr: '#428bca'
 
 <br><br>
 
-*** 
+
 
 <div class="row partners">
 {% for item in site.data.projects.projects %}
@@ -31,31 +31,6 @@ titleclr: '#428bca'
   {% endfor %}
   </div>
 
-*** 
 
-<br><br>
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> Registration opens on April 01, 2019. </p>
-<center><a class="waves-effect waves-light btn red" href="https://agahkarakuzu.typeform.com/to/T8vk4k" target="blank">REGISTER</a></center>
-
-<div class="row features">
-  <div class="col s12 m4 feature">
-    <i class="fa fa-comments-o fa-4x">
-    </i>
-    <h4> Socialize </h4>
-    <p class="feature-description"> This is a great opportunity to enhance your network. Just get into the spirit of it! </p>
-  </div>
-  <div class="col s12 m4 feature">
-    <i class="fa fa-laptop fa-4x">
-    </i>
-    <h4> Choose a project </h4>
-    <p class="feature-description"> Bring your own, come up with one or join a project. The hackathon is made for everyone, from novice to pro.</p>****
-  </div>
-  <div class="col s12 m4 feature">
-    <i class="fa fa-terminal fa-4x">
-    </i>
-    <h4> Hack </h4>
-    <p class="feature-description"> Code to solve, teach to help and come together to create. All hands on deck!</p>
-  </div>
-</div>
 
