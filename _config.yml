@@ -1,7 +1,6 @@
 ---
 safe: true
 
-
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
@@ -37,7 +36,7 @@ colors:
   clrnew: '#ffffff'
   party: '#1c1419'
 
-  
+
 kramdown:
   auto_ids:  false
 
