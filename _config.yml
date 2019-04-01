@@ -36,7 +36,6 @@ colors:
   clrnew: '#ffffff'
   party: '#1c1419'
 
-
 kramdown:
   auto_ids:  false
 
