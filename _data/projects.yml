@@ -29,3 +29,14 @@ projects:
     description:  An easy-to-use open-source and flexible tool for qMRI data handling and processing.
     url: https://github.com/mrathon/idea-pitches/issues/5
 
+  - id: "p-6"
+    title: "hMRI-toolbox"
+    image:  mrhub.png
+    description:  Draft an example of what that website might look like - and how it would work.
+    url: https://github.com/mrathon/idea-pitches/issues/6
+
+  - id: "p-7"
+    title: "DWI visualization"
+    image:  dwi.jpg
+    description: Developing some functions for DWI, streamlines and surfaces rendering with VTK in python. See FURY and DIPY project.  
+    url: https://github.com/mrathon/idea-pitches/issues/7    
