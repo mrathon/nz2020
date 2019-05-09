@@ -71,3 +71,9 @@ monday:
     place: B-600.16
     image: final.png
     text: Each team summarizes the progress made during the hackathon. 
+
+  - title: "Social"
+    time:  18h
+    place: Pavillion Bombardier 
+    image: social.png
+    text: Each team summarizes the progress made during the hackathon. 
