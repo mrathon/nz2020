@@ -1,15 +1,15 @@
 saturday1:
-  - title: "Breakfast"
-    time:  9h-10h
-    place: B-600.16
+  - title: "Tairawhiti MRathon Coffee & Registration"
+    time:  8:30am-9:00am
+    place: Waikanae Surf Club: 280E Grey Street, Gisborne
     image: breakfast.png
-    text:  Welcome to the first MRathon! Enjoy some coffee and Montreal's crispy croissants to get started.
+    text:  Welcome to the Tairawhiti MRathon. The event will start on April 15, with a series of talks by MRI experts. See agenda at https://matai.org.nz/events/matai-radiology-symposium-mrathon-tairawhiti/
 
-  - title: "Welcome"
-    time: 10h-11h
+  - title: "Problem Solving"
+    time: 9:00am-10:00am
     place: B-600.16
     image: welcome.png
-    text:  Introductory talks by Paul Tofts, Nikola Stikov, Katy Keenan and Lukas Winter.
+    text:  Start coding sessions.
 
   - title: "Pitch session"
     time:  11h-12h
