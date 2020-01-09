@@ -3,8 +3,8 @@ title: "About"
 bg: clrnew
 color: about
 fa-icon: info-circle
-iconclr: '#428bca'
-titleclr: '#428bca'
+iconclr: '#f2393d'
+titleclr: '#f2393d'
 ---
 
 # A hackathon for MRI professionals
@@ -19,17 +19,6 @@ titleclr: '#428bca'
 
 <br><br>
 
-
-
-<div class="row partners">
-{% for item in site.data.projects.projects %}
-  <div class="col s12 partner valign">
-    <h4 style="color: #486a89; text-align: left"> {{ item.title }}  </h4>
-    <a href="{{ item.url }}" target="blank"><img src="img/projects/{{ item.image }}"/></a>
-    
-  </div>
-  {% endfor %}
-  </div>
 
 
 
