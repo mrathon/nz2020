@@ -24,7 +24,7 @@ google_analytics_key:
 colors:
   white:        '#eaeaea'
   rwhite:       '#BBCBCB'
-  about:        '#2e2e2e'
+  about:        '#0d676f'
   intro:        '#f7514d'
   activities:   '#ed7950'
   saturday-one: '#66b266'
