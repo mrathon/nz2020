@@ -1,79 +1,73 @@
 saturday1:
-  - title: "Tairawhiti MRathon Coffee & Registration"
-    time:  8h30m-9h
-    place: Waikanae Surf Club, 280E Grey Street, Gisborne
-    image: breakfast.png
-    text:  Welcome to the Tairawhiti MRathon. The event will start on April 15, with a series of talks by MRI experts. See agenda at https://matai.org.nz/events/matai-radiology-symposium-mrathon-tairawhiti/
-
-  - title: "Problem Solving"
-    time:  9h-10h
-    place: B-600.16
+  - title: Cultural introduction"
+    time:  8h30m
+    place: War Memorial Theatre, 159 Bright Street, Gisborne
     image: welcome.png
-    text:  Start coding sessions.
+    text:  Welcome to the Tairawhiti MRathon! 
 
-  - title: "Pitch session"
-    time:  11h-12h
-    place: B-600.16
+  - title: "Talks"
+    time:  9h-12h
+    place: War Memorial Theatre
     image: present.png
-    typeform: https://github.com/mrathon/idea-pitches/issues/new/choose
-    text: Each project leader will give a 10 minute intro. If you have a project idea to pitch, please create a GitHub issue.
-
-  - title: "Networking lunch"
-    time:  12h-14h
-    place: B-600.16
-    image: lunch.png
-    text: A hungry stomach has no ears! Enjoy your complimentary lunch while socializing.
-
-  - title: "Hacking"
-    time:  14h-16h
-    place: B-600.16
-    image: hack.png
-    text: You have a project already? Then get the ball rolling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select a project that interests you.
-
-  - title: "Town hall meeting on reproducibility"
-    time: 16h-17h
-    place: B-600.16
-    image: idea.png
-    text: <a href="https://en.wikipedia.org/wiki/Unconference" target="_blank">Unconference</a> style discussion about different aspects of reproducibility in the field of MRI.
-monday:
-  - title: "Breakfast"
-    time:  9h-10h
-    place: B-600.16
-    image: breakfast2.png
-    text:  Welcome to the first MRathon! Enjoy some coffee and Montreal's crispy croissants to get started.
-
-  - title: "Catch session"
-    time: 10h-11h (24h)
-    place: B-600.16
-    image: catch.png
-    text: Each team gives an update about their project. 
-
-  - title: "Hacking"
-    time: 11h-13h
-    place: B-600.16
-    image: hack2.png
-    text: Code with your teammates, advance your project.
+    text:  Listening to some insightful talks is a great way to start your day!  
 
   - title: "Lunch"
-    time:  13h-14h
-    place: B-600.16
-    image: lunch2.png
-    text: Enjoy!
+    time:  12h-14h
+    place: Gisborne, yours to explore :)
+    image: lunch.png
+    text: A hungry stomach has no ears! Free time for our guests to organize own lunches in town. 
 
-  - title: "Hacking"
-    time:  14h-17h
-    place: B-600.16
+  - title: "Talks"
+    time:  14h-16h
+    place: War Memorial Theatre
+    image: present.png
+    text: Listen to more talks by MRI professionals.
+
+  - title: "MRathon Pitches"
+    time:  16h~
+    place: War Memorial Theatre
+    image: idea.png
+    text: You have a project already? Then get the ball rolling! If you are not involved in a project yet, this is a great time for you to observe what others are working on and select a project that interests you.
+
+  - title: "Social event"
+    time: 17h-20h
+    place: Buses will take you there.
+    image: geenorbertk.png
+    text: Have fun! 
+
+monday:
+  - title: "Breakfast"
+    time:  8h30m
+    place: Waikanae Surf Club, 280E Grey Street, Gisborne
+    image: breakfast2.png
+    text:  Enjoy some hot beverages and charge yourself up for what's up ahead! 
+
+  - title: "Coding"
+    time: 9h-11h45m
+    place: Waikanae Surf Club
+    image: hack2.png
+    text: Let's hear some clicking.
+
+  - title: "Lunch"
+    time: 11h45m-13h
+    place: Gisborne, yours to discover :) 
+    image: lunch2.png
+    text: All coding and no food returns you a null var. - Jack   
+
+  - title: "Coding"
+    time:  13h-15h30m
+    place: Waikanae Surf Club
     image: hack2.png
     text: The final hacking hours!
 
-  - title: "Wrap up"
-    time:  17h-18h
-    place: B-600.16
+  - title: "Wrap ups"
+    time:  15h30m-17h
+    place: Waikanae Surf Club
     image: final.png
     text: Each team summarizes the progress made during the hackathon. 
 
   - title: "Social"
-    time:  18h
-    place: Pavillion Bombardier 
+    time:  17h~
+    place: TBA
     image: social.png
-    text: Each team summarizes the progress made during the hackathon. 
+    text: Well deserved! 
