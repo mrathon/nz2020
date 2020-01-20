@@ -66,8 +66,9 @@ monday:
     image: final.png
     text: Each team summarizes the progress made during the hackathon. 
 
-  - title: "Social"
-    time:  17h~
+day3:
+  - title: "FUN DAY"
+    time:  9h-17h
     place: TBA
     image: social.png
-    text: Well deserved! 
+    text:  Stay around for a day of fun activities on Friday 17th, details coming soon
