@@ -9,7 +9,7 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:       "MRathon 2019"
+title:       "MRathon 2020"
 keywords:    "MRI, hackathon, 2020, new zealand, matai, mrathon"
 description: "MRI hackathon."
 source_link: "https://github.com/mrathon"
