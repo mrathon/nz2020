@@ -13,9 +13,9 @@ saturday1:
 
   - title: "Lunch"
     time:  12h-14h
-    place: Gisborne, yours to explore :)
+    place: War Memorial Theathre 
     image: lunch.png
-    text: A hungry stomach has no ears! Free time for our guests to organize own lunches in town. 
+    text: A hungry stomach has no ears!
 
   - title: "Talks"
     time:  14h-16h
@@ -67,8 +67,28 @@ monday:
     text: Each team summarizes the progress made during the hackathon. 
 
 day3:
-  - title: "FUN DAY"
-    time:  9h-17h
-    place: TBA
+  - title: "Reef/Ecology & Stingray Tour"
+    time:  7h
+    place: Portside Hotel ($55)
     image: social.png
-    text:  Stay around for a day of fun activities on Friday 17th, details coming soon
+    text:  A unique guided walk across a reef to meet the Tamariki (children) of Tangora the Maori God of the sea (interact with stingrays). Meet in front of the Portside Hotel for pick-up. 
+  - title: "Cultural Waka (histric canoe) Experience"
+    time:  10h-option1 
+    place: Gisborne Wine Centre ($75)
+    image: social.png
+    text:  Meet in front of the Gisborne Wine Center for a 1hr30m long Waka Tour. Take a cultural journey through time with local storytellers. The Waka Hourua is a traditional Maori vessel that carried the first settlers to the island of the first light - Tairawhiti-Gisborne, New Zealand. One of only nine double hulled wakas of this type in the world, that lead to the discovery of Aotearoa New Zealand, as the last piece of the Polynesian Triangle around 1,000 years ago. Note that this is not a sailing tour.
+  - title: "Rare Rockslide"
+    time:  10h-option2 
+    place: Gisborne Wine Centre (FREE)
+    image: social.png
+    text:  Meet in front of the Gisborne Wine Center ath the Gisborne Harbour (3/50 Esplanade, Inner Kaiti) for a ride out to a natural waterslide.
+  - title: "Gisborne Wine Center"
+    time:  12h30m 
+    place: Gisborne Wine Centre
+    image: social.png
+    text:  Meet at the Wine Center, for coffee/snack or to sample some Gisborne Wine. Cost is up to individuals.
+  - title: "Organize your own schedule"
+    time:  All-day
+    place: N/A
+    image: social.png
+    text: If you prefer to organize your own schedule for the day, choose from a range of options below or mix and match with the selected activities above.         
