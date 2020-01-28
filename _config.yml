@@ -10,7 +10,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "MRathon 2019"
-keywords:    "MRI, hackathon, 2019, montreal, polytechnique, mrathon"
+keywords:    "MRI, hackathon, 2020, new zealand, matai, mrathon"
 description: "MRI hackathon."
 source_link: "https://github.com/mrathon"
 favicon:     "img/favicon.ico"
